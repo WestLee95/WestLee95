@@ -47,7 +47,7 @@ I'm a passionate frontend development student based in **Nairobi, Kenya**, on a 
 ### 📚 [Booker](https://github.com/WestLee95/Booker)
 A Python-based application for book management
 - **Tech Stack:** Python
-- **Features:** [Add key features here]
+- **Features:** Transforms PDF to Audio Books.
 
 ### ✅ [TODO List App](https://github.com/WestLee95/TODO_list)
 A clean and functional todo application built with vanilla JavaScript
