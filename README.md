@@ -77,7 +77,7 @@ I'm always excited to connect with fellow developers, especially those passionat
 ---
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/WestLee95">WestLee95</a> with ❤️</i>
+  <i>⭐ From <a href="https://github.com/WestLee95">Wes</a> with ❤️</i>
 </div>
 
 ---
