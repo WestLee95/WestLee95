@@ -33,16 +33,16 @@ I'm a passionate frontend development student based in **Nairobi, Kenya**, on a 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WestLee95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WestLee95&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WestLee95&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WestLee95&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 🎯 Featured Projects
 
 ### 📚 [Booker](https://github.com/WestLee95/Booker)
-A Python-based application for book management
+A Python-based application for PDFs
 - **Tech Stack:** Python
 - **Features:** Transforms PDF to Audio Books
 
@@ -53,18 +53,13 @@ Modern e-commerce platform
 
 ### 💰 [Bossi Finance Tracker](https://github.com/WestLee95/Bossi_Finance_Tracker)
 Personal finance management application
-- **Tech Stack:** React, JavaScript
+- **Tech Stack:** React, Tailwind, Supabase
 - **Features:** Expense tracking, budget management, financial insights
 
-### 🏦 [CBE](https://github.com/WestLee95/CBE)
-Banking interface project
-- **Tech Stack:** React, CSS
-- **Features:** Modern banking UI, transaction management
 
 ## 🌟 What I'm Working On
 - 🔨 Building production-ready React applications with Next.js
 - 🎨 Mastering advanced animations with Framer Motion
-- 📱 Perfecting responsive design patterns and mobile-first development
 - 🚀 Exploring TypeScript for type-safe development
 
 ## 📫 Let's Connect!
