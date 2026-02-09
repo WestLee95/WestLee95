@@ -1,12 +1,10 @@
 # Hi there, I'm Westley! 👋
-
 🎨 **Frontend Developer Student** | Crafting beautiful user experiences one component at a time
 
 ## 🚀 About Me
-
 I'm a passionate frontend development student based in **Nairobi, Kenya**, on a mission to create stunning user interfaces and seamless user experiences. Currently diving deep into modern web technologies and loving every moment of the journey!
 
-- 🌱 Currently learning **React** and **Next.js**
+- 🌱 Proficient in **React** and **Next.js**
 - 🎯 Focused on **UI/UX Design** principles
 - 💡 Always exploring new frontend technologies and best practices
 - 🤝 Open to collaboration and learning opportunities
@@ -28,17 +26,19 @@ I'm a passionate frontend development student based in **Nairobi, Kenya**, on a 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Currently Learning
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WestLee95&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WestLee95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WestLee95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WestLee95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WestLee95&theme=tokyonight&hide_border=true)
+
 </div>
 
 ## 🎯 Featured Projects
@@ -46,32 +46,35 @@ I'm a passionate frontend development student based in **Nairobi, Kenya**, on a 
 ### 📚 [Booker](https://github.com/WestLee95/Booker)
 A Python-based application for book management
 - **Tech Stack:** Python
-- **Features:** Transforms PDF to Audio Books.
+- **Features:** Transforms PDF to Audio Books
 
-### ✅ [TODO List App](https://github.com/WestLee95/TODO_list)
-A clean and functional todo application built with vanilla JavaScript
-- **Tech Stack:** JavaScript, HTML, CSS
-- **Features:** Task management, local storage, responsive design
+### 🛒 [K-Store](https://github.com/WestLee95/k-store)
+Modern e-commerce platform
+- **Tech Stack:** React, Next.js, Tailwind CSS
+- **Features:** Product catalogue, shopping cart, responsive design
 
-### ⚛️ [My First React App](https://github.com/WestLee95/First_React_App)
-My journey into React development
+### 💰 [Bossi Finance Tracker](https://github.com/WestLee95/Bossi_Finance_Tracker)
+Personal finance management application
+- **Tech Stack:** React, JavaScript
+- **Features:** Expense tracking, budget management, financial insights
+
+### 🏦 [CBE](https://github.com/WestLee95/CBE)
+Banking interface project
 - **Tech Stack:** React, CSS
-- **Learning Focus:** Component-based architecture, state management
+- **Features:** Modern banking UI, transaction management
 
 ## 🌟 What I'm Working On
-
-- 🔨 Building more React projects to strengthen my component architecture skills
-- 🎨 Exploring advanced CSS animations and micro-interactions
-- 📱 Learning responsive design patterns and mobile-first development
-- 🚀 Planning to dive into Next.js for full-stack capabilities
+- 🔨 Building production-ready React applications with Next.js
+- 🎨 Mastering advanced animations with Framer Motion
+- 📱 Perfecting responsive design patterns and mobile-first development
+- 🚀 Exploring TypeScript for type-safe development
 
 ## 📫 Let's Connect!
-
 I'm always excited to connect with fellow developers, especially those passionate about frontend development and great user experiences!
 
 - 💼 Open to **internships** and **collaboration opportunities**
 - 🤝 Happy to connect with other **frontend enthusiasts**
-- 📧 Reach out if you want to discuss **React**, **UI/UX**, or just chat about code!
+- 📧 Reach out if you want to discuss **React**, **Next.js**, **UI/UX**, or just chat about code!
 
 ---
 
