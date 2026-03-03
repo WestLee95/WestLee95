@@ -46,7 +46,7 @@ A Python-based application for PDFs
 - **Tech Stack:** Python
 - **Features:** Transforms PDF to Audio Books
 
-### 🛒 [K-Store](https://github.com/WestLee95/k-store)
+### 🛒 [West Cart](https://westcart.vercel.app/))
 Modern e-commerce platform
 - **Tech Stack:** React, Next.js, Tailwind CSS
 - **Features:** Product catalogue, shopping cart, responsive design
